@@ -7,7 +7,16 @@
 
     [🔗 AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/)
 
-    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01.html 
+    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01.html
+
+---
+
+## 2. Associate Level (MLA-C01)
+## AWS Certified Machine Learning Engineer – Associate
+
+
+
+
 
 
 
