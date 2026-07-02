@@ -8,6 +8,7 @@
 🔗 https://aws.amazon.com/certification/certified-ai-practitioner/
 
    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01.html
+   
 👉 Best starting point for beginners in AI + AWS.
 
 ---
@@ -19,8 +20,6 @@
 🔗 https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
 
 Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/machine-learning-engineer-associate-01.html
-
-👉 Best starting point for beginners in AI + AWS.
 
 ---
 
