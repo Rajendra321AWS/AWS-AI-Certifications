@@ -5,7 +5,7 @@
 ###   AWS Certified AI Practitioner (AIF-C01)
 - **Focus:** AI/ML Basics, GenAI Concepts, AWS AI Service overview
 
-🔗 https://aws.amazon.com/certification/certified-ai-practitioner/)
+🔗 https://aws.amazon.com/certification/certified-ai-practitioner/
 
    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/ai-practitioner-01.html
 👉 Best starting point for beginners in AI + AWS.
@@ -16,7 +16,8 @@
 ## AWS Certified Machine Learning Engineer – Associate
 - **Focus:** Building, Training, deploying ML Models using AWS (SageMaker, MLOps)
 
-🔗 https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/  
+🔗 https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
+
 Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/machine-learning-engineer-associate-01.html
 
 👉 Best starting point for beginners in AI + AWS.
@@ -25,7 +26,8 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 
 ## 3. Professional Level (AIP-C01)
 ## AWS Certified Generative AI Developer - Professional
-- **Focus:** Amazon Bedrock (Models, Inference, APIs)
+- **Focus:** 
+  - Amazon Bedrock (Models, Inference, APIs)
   - Prompt Engineering
   - Retrieval-Augmented Generation (RAG)
   - Bedrock Knowledge Bases
@@ -41,6 +43,6 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
   - Amazon SageMaker AI
 
 🔗 https://aws.amazon.com/certification/certified-generative-ai-developer-professional/ 
+
    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html?utm_source=chatgpt.com
 
-Amazon Bedrock (Models, Inference, APIs)
