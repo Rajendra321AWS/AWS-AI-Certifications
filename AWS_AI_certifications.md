@@ -12,8 +12,8 @@
 
 ---
 
-## 2. Associate Level (MLA-C01)
-## AWS Certified Machine Learning Engineer – Associate
+## 2. Associate Level 
+## AWS Certified Machine Learning Engineer – Associate (MLA-C01)
 - **Focus:** Building, Training, deploying ML Models using AWS (SageMaker, MLOps)
 
 🔗 https://aws.amazon.com/certification/certified-machine-learning-engineer-associate/
@@ -24,8 +24,8 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 
 ---
 
-## 3. Professional Level (AIP-C01)
-## AWS Certified Generative AI Developer - Professional
+## 3. Professional Level 
+## AWS Certified Generative AI Developer - Professional (AIP-C01)
 - **Focus:** 
   - Amazon Bedrock (Models, Inference, APIs)
   - Prompt Engineering
