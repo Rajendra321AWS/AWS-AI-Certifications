@@ -26,9 +26,9 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 ## 3. Professional Level (AIP-C01)
 ## AWS Certified Generative AI Developer - Professional
 - **Focus:** Amazon Bedrock (Models, Inference, APIs)
-             Prompt Engineering
-             Retrieval-Augmented Generation (RAG)
-             Bedrock Knowledge Bases
+  -             Prompt Engineering
+   -          Retrieval-Augmented Generation (RAG)
+    -         Bedrock Knowledge Bases
              Bedrock Agents
              Bedrock Guardrails
              Foundation Models (LLMs)
