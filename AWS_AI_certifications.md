@@ -26,5 +26,5 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 ## 3. Professional Level (AIP-C01)
 ## AWS Certified Generative AI Developer - Professional
 - **Focus:** 
-🔗 https://aws.amazon.com/certification/certified-generative-ai-developer-professional/
+🔗 https://aws.amazon.com/certification/certified-generative-ai-developer-professional/ 
 Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html?utm_source=chatgpt.com
