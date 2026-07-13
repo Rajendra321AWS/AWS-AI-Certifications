@@ -53,10 +53,10 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 
 - **What is ML:** ML is part of AI that helps computers to learn from data and make predictions or decisions on their own.
 
-Examples 
-   - **Email spam filters** learn to identify spam emails.
-   - **Netflix** recommends movies based on watch history.
-   - **Online shopping sites** suggests product you might like. 
+Examples:
+     - **Email spam filters** learn to identify spam emails.
+     - **Netflix** recommends movies based on watch history.
+     - **Online shopping sites** suggests product you might like. 
 
 - **What is Deep learning:** Deep learning is a subset of ML and that uses **Artificial neural networks with many layers**(deep networks) to learn complex patterns from lorge amout of data.
 
