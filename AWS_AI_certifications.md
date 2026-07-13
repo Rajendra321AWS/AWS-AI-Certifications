@@ -53,22 +53,39 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 
 - **What is ML:** ML is part of AI that helps computers to learn from data and make predictions or decisions on their own.
 
-## Examples 
-     **Email spam filters** learn to identify spam emails.
-     **Netflix** recommends movies based on watch history.
-     **Online shopping sites** suggests product you might like. 
+### Examples 
+   **Email spam filters** learn to identify spam emails.
+   **Netflix** recommends movies based on watch history.
+   **Online shopping sites** suggests product you might like. 
 
 - **What is Deep learning:** Deep learning is a subset of ML and that uses **Artificial neural networks with many layers**(deep networks) to learn complex patterns from lorge amout of data.
 
-## Relationship Between AI, ML, and DL
+# Relationship Between AI, ML, and DL
 
+```text
 Artificial Intelligence (AI)
-        │
-        ├── Machine Learning (ML)
-        │        │
-        │        ├── Supervised Learning
-        │        ├── Unsupervised Learning
-        │        ├── Reinforcement Learning
-        │        └── Deep Learning (DL)
-        │
-        └── Rule-based AI, Expert Systems, Robotics, etc.
+│
+├── Machine Learning (ML)
+│   │
+│   ├── Supervised Learning
+│   │   └── Deep Learning (DL)
+│   │
+│   ├── Unsupervised Learning
+│   │   └── Deep Learning (DL)
+│   │
+│   ├── Reinforcement Learning
+│   │   └── Deep Reinforcement Learning
+│   │
+│   └── Traditional ML Algorithms
+│       ├── Linear Regression
+│       ├── Logistic Regression
+│       ├── Decision Trees
+│       ├── Random Forest
+│       ├── Support Vector Machines (SVM)
+│       └── K-Nearest Neighbors (KNN)
+│
+└── Other AI Approaches
+    ├── Rule-based AI
+    ├── Expert Systems
+    ├── Robotics
+    └── Knowledge-based Systems
