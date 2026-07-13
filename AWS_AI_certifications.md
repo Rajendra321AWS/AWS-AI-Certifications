@@ -45,5 +45,6 @@ Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/mach
 
    Exam Guide: https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html?utm_source=chatgpt.com
 
-# <h2>AI Basics list</h2>
+# <h2>AI Basics</h2>
 ======================================
+**What is AI:** AI is a technology that helps computers to learn from existing data sources and gives better solutions like humans
