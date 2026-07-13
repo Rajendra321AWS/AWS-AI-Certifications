@@ -64,7 +64,7 @@ Examples:
 
 - **What is Deep learning:** Deep learning is a subset of ML and that uses **Artificial neural networks with many layers**(deep networks) to learn complex patterns from lorge amout of data.
 
-# Relationship Between AI, ML, and DL
+## Relationship Between AI, ML, and DL
 
 ```text
 Artificial Intelligence (AI)
